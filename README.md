@@ -20,7 +20,7 @@ Project's source tree looks like:
         |               `-- checkout
         |                    `-- model
         |                    `-- service
-	|		     `-- validator
+		|		     `-- validator
         |
         `-- test
             `-- java
@@ -29,7 +29,7 @@ Project's source tree looks like:
                         `-- checkout
                              `-- model
                              `-- service
-			     `-- validator
+							 `-- validator
 
 dependencies
 ------------
