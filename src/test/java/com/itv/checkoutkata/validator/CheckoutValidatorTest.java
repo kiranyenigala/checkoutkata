@@ -2,7 +2,6 @@ package com.itv.checkoutkata.validator;
 
 import com.itv.checkoutkata.model.IPriceMatrix;
 import com.itv.checkoutkata.model.Price;
-import com.itv.checkoutkata.model.PriceMatrix;
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;

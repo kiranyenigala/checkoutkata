@@ -2,12 +2,10 @@ package com.itv.checkoutkata.service;
 
 import com.itv.checkoutkata.model.IPriceMatrix;
 import com.itv.checkoutkata.model.Price;
-import com.itv.checkoutkata.model.PriceMatrix;
 import com.itv.checkoutkata.model.Promotion;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.mockito.Mock;
 import org.mockito.Mockito;
 
 import java.util.ArrayList;
