@@ -7,6 +7,7 @@ source tree
 
 Project's source tree looks like:
 
+
 .
 |-- nbproject
 `-- src
@@ -26,7 +27,9 @@ Project's source tree looks like:
                     `-- checkout
                         `-- model
                          `-- service
-						 `-- validator
+			 `-- validator
+			 
+
 dependencies
 
 checkoutkata depends on just few popular libraries/frameworks:
